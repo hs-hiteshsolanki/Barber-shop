@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/grenze_gotisch</item>
+        <item>@font/ribeye_marrow</item>
+        <item>@font/ribeye_marrow</item>
+        <item>@font/rye</item>
+    </array>
+</resources>
